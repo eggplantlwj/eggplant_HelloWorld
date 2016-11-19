@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  cout<<"this is my fist program in here"<<endl;
+  cout<<"to be conterned"<<endl;
+  return 0;
+}
