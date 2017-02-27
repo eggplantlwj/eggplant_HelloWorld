@@ -1,0 +1,22 @@
+d:\documents\visual studio 2010\Projects\myTest_search\myTest_search\bin\Debug\myTest_search.exe
+d:\documents\visual studio 2010\Projects\myTest_search\myTest_search\bin\Debug\myTest_search.pdb
+d:\documents\visual studio 2010\Projects\myTest_search\myTest_search\obj\x86\Debug\myTest_search.Form1.resources
+d:\documents\visual studio 2010\Projects\myTest_search\myTest_search\obj\x86\Debug\myTest_search.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\myTest_search\myTest_search\obj\x86\Debug\myTest_search.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\myTest_search\myTest_search\obj\x86\Debug\myTest_search.exe
+d:\documents\visual studio 2010\Projects\myTest_search\myTest_search\obj\x86\Debug\myTest_search.pdb
+d:\documents\visual studio 2010\Projects\myTest_search\myTest_search\bin\Debug\halcondotnet.dll
+d:\documents\visual studio 2010\Projects\myTest_search\myTest_search\bin\Debug\halcondotnet.xml
+D:\Documents\Visual Studio 2010\Projects\myTest_search\myTest_search\obj\x86\Debug\myTest_search.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\myTest_search\myTest_search\obj\x86\Debug\myTest_search.ModelOperation.resources
+D:\myTest_search\myTest_search\obj\x86\Debug\myTest_search.exe
+D:\myTest_search\myTest_search\obj\x86\Debug\myTest_search.pdb
+D:\myTest_search\myTest_search\bin\Debug\myTest_search.exe
+D:\myTest_search\myTest_search\bin\Debug\myTest_search.pdb
+D:\myTest_search\myTest_search\bin\Debug\MySql.Data.dll
+D:\myTest_search\myTest_search\bin\Debug\halcondotnet.xml
+D:\myTest_search\myTest_search\obj\x86\Debug\myTest_search.csprojResolveAssemblyReference.cache
+D:\myTest_search\myTest_search\obj\x86\Debug\myTest_search.Form1.resources
+D:\myTest_search\myTest_search\obj\x86\Debug\myTest_search.ModelOperation.resources
+D:\myTest_search\myTest_search\obj\x86\Debug\myTest_search.Properties.Resources.resources
+D:\myTest_search\myTest_search\obj\x86\Debug\myTest_search.csproj.GenerateResource.Cache
